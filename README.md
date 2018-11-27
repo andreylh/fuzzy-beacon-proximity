@@ -8,7 +8,7 @@ $ java -jar build/libs/fuzzy-beacon-proximity.jar <PARAMETERS>
 ## Parameters
 <table>
 <tr>
-<th>Parameter</th>
+<th>Name</th>
 <th>Type</th>
 <th>Possible values</th>
 </tr>
