@@ -2,7 +2,7 @@
 
 ```bash
 $ ./gradlew clean build
-$ java -jar fuzzy-beacon-proximity.jar <signal> <distance> <tnorm> <aggregation> <implication> <defuzzifier>
+$ java -jar build/libs/fuzzy-beacon-proximity.jar <PARAMETERS>
 ```
 
 ## Parameters
